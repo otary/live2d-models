@@ -1,0 +1,22 @@
+{
+  "name": "live2d-models",
+  "version": "0.0.1",
+  "author": "otary",
+  "keywords": [
+    "live2d models"
+  ],
+  "description": "live2d models",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umdjs/umd"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/umdjs/umd",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
