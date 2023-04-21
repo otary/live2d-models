@@ -1,5 +1,5 @@
 {
-  "name": "live2d-models",
+  "name": "live2d-models-storage",
   "version": "0.0.1",
   "author": "otary",
   "keywords": [
@@ -8,10 +8,10 @@
   "description": "live2d models",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umdjs/umd"
+    "url": "https://github.com/otary/live2d-models"
   },
   "license": "MIT",
-  "homepage": "https://github.com/umdjs/umd",
+  "homepage": "https://github.com/otary/live2d-models",
   "scripts": {
     "build": "webpack"
   },
